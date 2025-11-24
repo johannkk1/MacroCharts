@@ -1,0 +1,366 @@
+[
+    {
+        "timestamp": "2025-11-24T23:04:36.950472",
+        "ticker": "DOT-USD",
+        "period": "max",
+        "chart_type": "candle",
+        "config": {
+            "ticker": "DOT-USD",
+            "compare_ticker": "",
+            "period": "max",
+            "chart_type": "candle",
+            "style": "standard",
+            "bg_color": "transparent",
+            "selected_tickers": [
+                "DOT-USD"
+            ],
+            "asset_settings": {
+                "DOT-USD": {
+                    "ticker": "DOT-USD",
+                    "chartType": "candle",
+                    "color": "#0066FF",
+                    "upColor": "#10B981",
+                    "downColor": "#EF4444",
+                    "scale": "log",
+                    "priceAxis": "left",
+                    "timeAxis": "bottom",
+                    "candleInterval": "1d"
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2025-11-24T23:04:29.625060",
+        "ticker": "DOT-USD",
+        "period": "ytd",
+        "chart_type": "candle",
+        "config": {
+            "ticker": "DOT-USD",
+            "compare_ticker": "",
+            "period": "ytd",
+            "chart_type": "candle",
+            "style": "standard",
+            "bg_color": "transparent",
+            "selected_tickers": [
+                "DOT-USD"
+            ],
+            "asset_settings": {
+                "DOT-USD": {
+                    "ticker": "DOT-USD",
+                    "chartType": "candle",
+                    "color": "#0066FF",
+                    "upColor": "#10B981",
+                    "downColor": "#EF4444",
+                    "scale": "log",
+                    "priceAxis": "left",
+                    "timeAxis": "bottom",
+                    "candleInterval": "1d"
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2025-11-24T23:04:18.082258",
+        "ticker": "DOT-USD",
+        "period": "1y",
+        "chart_type": "candle",
+        "config": {
+            "ticker": "DOT-USD",
+            "compare_ticker": "",
+            "period": "1y",
+            "chart_type": "candle",
+            "style": "standard",
+            "bg_color": "transparent",
+            "selected_tickers": [
+                "DOT-USD"
+            ],
+            "asset_settings": {
+                "DOT-USD": {
+                    "ticker": "DOT-USD",
+                    "chartType": "candle",
+                    "color": "#0066FF",
+                    "upColor": "#10B981",
+                    "downColor": "#EF4444",
+                    "scale": "log",
+                    "priceAxis": "left",
+                    "timeAxis": "bottom",
+                    "candleInterval": "1d"
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2025-11-24T23:04:06.381506",
+        "ticker": "DOT-USD",
+        "period": "1y",
+        "chart_type": "candle",
+        "config": {
+            "ticker": "DOT-USD",
+            "compare_ticker": "",
+            "period": "1y",
+            "chart_type": "candle",
+            "style": "standard",
+            "bg_color": "transparent",
+            "selected_tickers": [
+                "DOT-USD"
+            ],
+            "asset_settings": {
+                "DOT-USD": {
+                    "ticker": "DOT-USD",
+                    "chartType": "candle",
+                    "color": "#0066FF",
+                    "upColor": "#10B981",
+                    "downColor": "#EF4444",
+                    "scale": "linear",
+                    "priceAxis": "left",
+                    "timeAxis": "bottom",
+                    "candleInterval": "1d"
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2025-11-24T23:03:59.787367",
+        "ticker": "AAPL",
+        "period": "1y",
+        "chart_type": "candle",
+        "config": {
+            "ticker": "AAPL",
+            "compare_ticker": "",
+            "period": "1y",
+            "chart_type": "candle",
+            "style": "standard",
+            "bg_color": "transparent",
+            "selected_tickers": [
+                "AAPL"
+            ],
+            "asset_settings": {}
+        }
+    },
+    {
+        "timestamp": "2025-11-24T23:00:57.897143",
+        "ticker": "UNI-USD",
+        "period": "1y",
+        "chart_type": "candle",
+        "config": {
+            "ticker": "UNI-USD",
+            "compare_ticker": "",
+            "period": "1y",
+            "chart_type": "candle",
+            "style": "standard",
+            "bg_color": "transparent",
+            "selected_tickers": [
+                "UNI-USD"
+            ],
+            "asset_settings": {
+                "UNI-USD": {
+                    "ticker": "UNI-USD",
+                    "chartType": "candle",
+                    "color": "#0066FF",
+                    "upColor": "#10B981",
+                    "downColor": "#EF4444",
+                    "scale": "linear",
+                    "priceAxis": "left",
+                    "timeAxis": "bottom",
+                    "candleInterval": "1d"
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2025-11-24T22:54:46.793757",
+        "ticker": "^GDAXI",
+        "period": "1y",
+        "chart_type": "candle",
+        "config": {
+            "ticker": "^GDAXI",
+            "compare_ticker": "",
+            "period": "1y",
+            "chart_type": "candle",
+            "style": "standard",
+            "bg_color": "transparent",
+            "selected_tickers": [
+                "^GDAXI"
+            ],
+            "asset_settings": {
+                "^GDAXI": {
+                    "ticker": "^GDAXI",
+                    "chartType": "candle",
+                    "color": "#0066FF",
+                    "scale": "linear",
+                    "priceAxis": "left",
+                    "timeAxis": "bottom",
+                    "candleInterval": "1d"
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2025-11-24T22:54:31.835836",
+        "ticker": "BTC-USD",
+        "period": "1y",
+        "chart_type": "candle",
+        "config": {
+            "ticker": "BTC-USD",
+            "compare_ticker": "",
+            "period": "1y",
+            "chart_type": "candle",
+            "style": "standard",
+            "bg_color": "transparent",
+            "selected_tickers": [
+                "BTC-USD"
+            ],
+            "asset_settings": {
+                "BTC-USD": {
+                    "candleInterval": "1d",
+                    "chartType": "candle",
+                    "color": "#ff0000",
+                    "priceAxis": "left",
+                    "scale": "linear",
+                    "ticker": "BTC-USD",
+                    "timeAxis": "bottom"
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2025-11-24T22:50:34.963664",
+        "ticker": "META",
+        "period": "3mo",
+        "chart_type": "candle",
+        "config": {
+            "ticker": "META",
+            "compare_ticker": "",
+            "period": "3mo",
+            "chart_type": "candle",
+            "style": "standard",
+            "bg_color": "transparent",
+            "selected_tickers": [
+                "META"
+            ],
+            "asset_settings": {
+                "META": {
+                    "ticker": "META",
+                    "chartType": "candle",
+                    "color": "#0066FF",
+                    "scale": "linear",
+                    "priceAxis": "left",
+                    "timeAxis": "bottom",
+                    "candleInterval": "1d"
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2025-11-24T16:22:19.154228",
+        "ticker": "BTC-USD",
+        "period": "3mo",
+        "chart_type": "candle",
+        "config": {
+            "ticker": "BTC-USD",
+            "compare_ticker": "",
+            "period": "3mo",
+            "chart_type": "candle",
+            "style": "standard",
+            "bg_color": "transparent",
+            "selected_tickers": [
+                "BTC-USD"
+            ],
+            "asset_settings": {
+                "BTC-USD": {
+                    "ticker": "BTC-USD",
+                    "chartType": "candle",
+                    "color": "#ff0000",
+                    "scale": "linear",
+                    "priceAxis": "left",
+                    "timeAxis": "bottom",
+                    "candleInterval": "1d"
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2025-11-24T16:22:07.028233",
+        "ticker": "BTC-USD",
+        "period": "3mo",
+        "chart_type": "candle",
+        "config": {
+            "ticker": "BTC-USD",
+            "compare_ticker": "",
+            "period": "3mo",
+            "chart_type": "candle",
+            "style": "standard",
+            "bg_color": "transparent",
+            "selected_tickers": [
+                "BTC-USD"
+            ],
+            "asset_settings": {
+                "BTC-USD": {
+                    "ticker": "BTC-USD",
+                    "chartType": "candle",
+                    "color": "#0066FF",
+                    "scale": "linear",
+                    "priceAxis": "left",
+                    "timeAxis": "bottom",
+                    "candleInterval": "1d"
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2025-11-24T00:56:56.131008",
+        "ticker": "AVAX-USD",
+        "period": "1y",
+        "chart_type": "candle",
+        "config": {
+            "ticker": "AVAX-USD",
+            "compare_ticker": "",
+            "period": "1y",
+            "chart_type": "candle",
+            "style": "standard",
+            "bg_color": "transparent",
+            "selected_tickers": [
+                "AVAX-USD"
+            ],
+            "asset_settings": {
+                "AVAX-USD": {
+                    "ticker": "AVAX-USD",
+                    "chartType": "candle",
+                    "color": "#0066FF",
+                    "scale": "linear",
+                    "priceAxis": "left",
+                    "timeAxis": "bottom",
+                    "candleInterval": "1d"
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2025-11-24T00:56:27.808992",
+        "ticker": "SOL-USD",
+        "period": "1y",
+        "chart_type": "candle",
+        "config": {
+            "ticker": "SOL-USD",
+            "compare_ticker": "",
+            "period": "1y",
+            "chart_type": "candle",
+            "style": "standard",
+            "bg_color": "transparent",
+            "selected_tickers": [
+                "SOL-USD"
+            ],
+            "asset_settings": {
+                "SOL-USD": {
+                    "ticker": "SOL-USD",
+                    "chartType": "candle",
+                    "color": "#0066FF",
+                    "scale": "linear",
+                    "priceAxis": "left",
+                    "timeAxis": "bottom",
+                    "candleInterval": "1d"
+                }
+            }
+        }
+    }
+]

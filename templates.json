@@ -1,0 +1,24 @@
+{
+    "btc": {
+        "ticker": "BTC-USD",
+        "compare_ticker": "",
+        "period": "1y",
+        "chart_type": "line",
+        "style": "standard",
+        "bg_color": "transparent",
+        "selected_tickers": [
+            "BTC-USD"
+        ],
+        "asset_settings": {
+            "BTC-USD": {
+                "ticker": "BTC-USD",
+                "chartType": "line",
+                "color": "#ff0000",
+                "scale": "linear",
+                "priceAxis": "left",
+                "timeAxis": "bottom",
+                "candleInterval": "1d"
+            }
+        }
+    }
+}
